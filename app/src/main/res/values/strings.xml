@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cerradura</string>
+    <string name="txtInit">Conectate para iniciar</string>
+    <string name="txtListInit">Dispositivos vinculados</string>
+    <string name="msjPwd">Ingresa la contraseña para continuar</string>
+    <string name="btnPwd">Enviar</string>
+    <string name="txtAbrir">abrir</string>
+    <string name="msjAbierto">Abierto</string>
+    <string name="msjCerrado">Cerrado</string>
+    <string name="txtCerrar">cerrar</string>
+    <string name="txtConfirmacion">Ya tiene el control de la puerta</string>
+    <string name="txtNegacion">No oprima los botones hasta tener el control de la puerta</string>
+</resources>
